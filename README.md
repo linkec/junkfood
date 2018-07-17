@@ -8,7 +8,7 @@ location / {
        try_files $uri $uri/ /?$args; 
 }
 ```
-3.Enjoy
+       3.Enjoy
 
        BTW Apache is able to serve this file, but I am not sure how to write rewrite rule,Any one help us to improve?
 
@@ -20,4 +20,4 @@ location / {
        try_files $uri $uri/ /?$args; 
 }
 ```
-完事儿~
+       完事儿~
